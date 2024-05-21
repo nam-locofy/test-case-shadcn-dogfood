@@ -1,0 +1,13 @@
+{
+  "components": [
+    "./src/user-components/CustomButton.tsx",
+    "./src/user-components/CustomArea.tsx",
+    "./src/user-components/CustomRadioButton.tsx",
+    "./src/components/ui/toaster.tsx",
+    "./src/user-components/ToastDemo.tsx",
+    "./src/user-components/CustomSwitch.tsx"
+  ],
+  "wrapper": "./src/Wrapper.tsx",
+  "projectId": "664b1730a8ebc554cf0762cf",
+  "projectName": "@shadcn/ui - Design System (Community)"
+}
